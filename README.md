@@ -102,7 +102,7 @@ Note: Ensure student_cnn.keras and weights are uploaded via Git LFS if they exce
 
 👨‍💻 Developer
 
-Developed by Shah Mohammad Rizvi
+Developed by Al Amin Ahmed Shanto
 
 LENS-Guard v1.0 Production Release
 
